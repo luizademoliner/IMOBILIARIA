@@ -8,7 +8,7 @@ O sistema foi desenvolvido com o objetivo de aplicar os conhecimentos adquiridos
 
 Criamos uma solução para auxiliar a organização do trabalho de uma **imobiliária**, focando na gestão de **corretores**, **clientes** e **imóveis**.
 
-### 🧑‍💼 Funcionalidades principais:
+### Funcionalidades principais:
 
 - Cadastro de **corretores** com seus dados de contato
 - Cadastro de **clientes**, incluindo aqueles que desejam alugar, comprar ou anunciar imóveis
@@ -29,14 +29,14 @@ Criamos uma solução para auxiliar a organização do trabalho de uma **imobili
 7. Permitir ao **Corretor** editar anúncios de imóveis
 8. Permitir que **Clientes** e **Corretores** acessem a lista de imóveis disponíveis
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - **Java (POO)**
 - **MySQL** (Banco de Dados)
 - **JDBC** (conexão Java com o banco)
 - **Visual Studio Code (VS Code)** como IDE
 
-## 🚀 Possíveis melhorias futuras
+## Possíveis melhorias futuras
 
 Temos interesse em continuar evoluindo este projeto, com as seguintes ideias de melhoria:
 
@@ -45,7 +45,7 @@ Temos interesse em continuar evoluindo este projeto, com as seguintes ideias de 
 - Implementação de uma camada de **validação de dados** mais robusta
 - Adição de recursos para melhorar a experiência do usuário, como mensagens de confirmação e tratamento de erros mais detalhado
 
-## 🎯 Objetivo pedagógico
+## Objetivo pedagógico
 
 Este projeto teve como principal objetivo reforçar o aprendizado de:
 
